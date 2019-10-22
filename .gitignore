@@ -108,3 +108,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.txt
+*.txt
+*.h5
+dry_de_rompert
+dry_helftheuvelweg
+dry_oudengelseweg
