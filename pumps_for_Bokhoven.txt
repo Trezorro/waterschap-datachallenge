@@ -1,2 +1,1 @@
-Bokhoven
-Maasdijk
+['Bokhoven', 'Maasdijk']

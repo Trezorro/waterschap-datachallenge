@@ -1,5 +1,1 @@
-Geb. 26 Maaspoort
-Maaspoort-bedrijven
-Geb. 26 Maasoever
-Maashoeve
-Oud Empel
+['Oud Empel', 'Geb. 26 Maaspoort', 'Maaspoort-bedrijven', 'Maashoeve', 'Geb. 26 Maasoever']
