@@ -1,1 +1,0 @@
-['Geb. 19 Deuteren', 'Geb.20 Schutskamp / Nieuw Deuteren', 'Geb. 18 Moerputten / Deutersestraat', 'Geb. 22 Rietvelden-oost', 'Geb. 19 Deuteren', 'Woonwagencentrum', 'Geb. 19 Deuteren / Oud Deuteren', 'Geb. 21 Kruiskamp', 'Geb. 23 Rietvelden-west']
